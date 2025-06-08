@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/AdaSampah/.github/blob/main/profile/assests/icon.png" alt="Logo AdaSampah" style="width: 40%;">
+  <img src="https://github.com/AdaSampah/.github/blob/main/profile/assests/icon.png" alt="Logo AdaSampah" style="width: 40%; margin-bottom: 24px;">
 
-  <p style="margin-top: 20px;">AdaSampa: Ada sampah? Laporin aja!</p>
+  <h2 style="margin-top: 0; color: #2e7d32; font-size: 2rem; font-weight: bold; text-shadow: 1px 1px 6px #b2dfdb; letter-spacing: 1px;">AdaSampah: Ada sampah? Laporin aja!</h2>
 </div>
 
 # About this project ♻️🌱
