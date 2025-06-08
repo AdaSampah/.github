@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="#" alt="Logo AdaSampah" style="width: 20%;">
+  <img src="https://github.com/AdaSampah/.github/blob/main/profile/assests/icon.png" alt="Logo AdaSampah" style="width: 20%;">
   <p>AdaSampa: Ada sampah? Laporin aja!</p>
 </div>
 
