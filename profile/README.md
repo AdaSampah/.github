@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://github.com/AdaSampah/.github/blob/main/profile/assests/icon.png" alt="Logo AdaSampah" style="width: 40%;">
-  <p>AdaSampa: Ada sampah? Laporin aja!</p>
+
+  <p style="margin-top: 20px;">AdaSampa: Ada sampah? Laporin aja!</p>
 </div>
 
 # About this project ♻️🌱
