@@ -36,6 +36,6 @@ AdaSampah merupakan sebuah platform inovatif yang bertujuan untuk membangun kola
    - [Machine Learning](https://github.com/SnackCheck-C242-PS242/Machine-Learning)
    - [Front-End](https://github.com/AdaSampah/AdaSampah-FEBE)
    - [Back-End](https://github.com/AdaSampah/AdaSampah-Back-End)
-   - [ML API (Flask)](https://github.com/AdaSampah/ml-api)
+   - [ML API](https://github.com/AdaSampah/ml-api)
 
 2. Anda bisa mengunjungi website AdaSampah [disini](https://github.com/SnackCheck-C242-PS242/Mobile-Development/tree/main/SnackCheck%20APK)
