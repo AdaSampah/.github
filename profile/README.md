@@ -26,7 +26,7 @@ AdaSampah merupakan sebuah platform inovatif yang bertujuan untuk membangun kola
 # Application Result
 
 <div align="center">
-  <img src="#" alt="Result App" style="width: 100%;">
+  <img src="https://github.com/AdaSampah/.github/blob/main/profile/assests/mockup.png" alt="Result App" style="width: 100%;">
 </div>
 
 # Project Documentation
