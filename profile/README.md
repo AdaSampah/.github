@@ -19,7 +19,7 @@ AdaSampah merupakan sebuah platform inovatif yang bertujuan untuk membangun kola
 | MC223D5Y0673     | Hernadhif Rafif Wiryawan		  | Machine Learning                    | [LinkedIn](https://www.linkedin.com/in/hernadhif-rafif-wiryawan/) | [@nadhifrw](https://github.com/nadhifrw) | Active |
 | FC223D5Y2409     | Fadilla Ma'sum Haqqoni       | Front-End dan Back-End Developer    | [LinkedIn](https://www.linkedin.com/in/fadillamh/) | [@luoFengg](https://github.com/luoFengg) | Active |
 | FC223D5Y1063     | Alfian Maulana	              | Front-End dan Back-End Developer    | [LinkedIn](https://github.com/Alfianmnaa) | [@Alfianmnaa](https://www.linkedin.com/in/alfian-maulana-76656b282) | Active |
-| FC828D5Y1983     | Haidar Taqy	                | Front-End dan Back-End Developer    | [LinkedIn](https://www.linkedin.com) | [@adasda](https://github.com) | Active |
+| FC828D5Y1983     | Haidar Taqy	                | Front-End dan Back-End Developer    | [LinkedIn](https://www.linkedin.com/in/idarrr11) | [@idarrr11](https://github.com/Idarrr11) | Active |
 
 </div>
 
