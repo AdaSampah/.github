@@ -33,7 +33,9 @@ AdaSampah merupakan sebuah platform inovatif yang bertujuan untuk membangun kola
 
 1. Learning Path Documentation
 
-   - [Machine Learning](https://github.com/SnackCheck-C242-PS242/Machine-Learning)
+   - [Machine Learning](https://github.com/orgs/AdaSampah/repositories)
+      - [Model Bersih/Kotor](https://github.com/AdaSampah/AdaSampah-ML-BersihKotor)
+      - [Model Edukasi Kenali Sampah](https://github.com/AdaSampah/AdaSampah-ML-Edukasi)
    - [Front-End](https://github.com/AdaSampah/AdaSampah-FEBE)
    - [Back-End](https://github.com/AdaSampah/AdaSampah-Back-End)
    - [ML API](https://github.com/AdaSampah/ml-api)
